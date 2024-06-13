@@ -1,0 +1,1 @@
+# Symulator-komunikacji-szeregowej-R232
