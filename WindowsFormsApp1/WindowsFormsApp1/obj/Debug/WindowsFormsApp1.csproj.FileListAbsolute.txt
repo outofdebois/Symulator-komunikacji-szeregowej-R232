@@ -1,0 +1,40 @@
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RS232.resources
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Julia\Desktop\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RS232.resources
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\hp\Desktop\pg\sem_5\POSK\projekt4(2)\projekt4\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RS232.resources
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Julia\Desktop\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.RS232.resources
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\user1\Desktop\Studia 1.0\ASK\ask\projekt4\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

@@ -1,0 +1,9 @@
+czerwony
+niebieski
+zielony
+czarny
+bialy
+zolty
+pomaranczowy
+fioletowy
+rozowy
